@@ -1,0 +1,5 @@
+C:\Users\ramos\Documents\Visual Studio 2015\Projects\TrainStation\TrainStation\bin\Debug\TrainStation.dll
+C:\Users\ramos\Documents\Visual Studio 2015\Projects\TrainStation\TrainStation\bin\Debug\TrainStation.pdb
+C:\Users\ramos\Documents\Visual Studio 2015\Projects\TrainStation\TrainStation\obj\Debug\TrainStation.dll
+C:\Users\ramos\Documents\Visual Studio 2015\Projects\TrainStation\TrainStation\obj\Debug\TrainStation.pdb
+C:\Users\ramos\Documents\Visual Studio 2015\Projects\TrainStation\TrainStation\obj\Debug\TrainStation.csprojResolveAssemblyReference.cache
